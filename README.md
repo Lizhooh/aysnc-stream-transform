@@ -7,3 +7,7 @@
 npm install
 node index
 ```
+
+参考资料：
+- https://juejin.im/post/6844903543678189576#heading-24
+- https://github.com/mariocasciaro/through2-parallel/blob/master/parallelTransformStream.js
